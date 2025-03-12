@@ -1,69 +1,35 @@
-# Welcome to your Lovable project
+# 🚀 Landing Page - TypeScript
 
-## Project info
+Uma landing page moderna e responsiva desenvolvida com **TypeScript**, **React** e **Styled Components**.  
 
-**URL**: https://lovable.dev/projects/178b60d6-32ca-4faf-8819-f7bb73797102
+## 🌟 Demonstração  
 
-## How can I edit this code?
+Você pode conferir a landing page online clicando [aqui](#) _(adicione o link do deploy, se disponível)_.  
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📌 Tecnologias Utilizadas  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/178b60d6-32ca-4faf-8819-f7bb73797102) and start prompting.
+- **TypeScript** - Tipagem estática para maior segurança e escalabilidade do código.  
+- **React** - Biblioteca JavaScript para criação de interfaces reativas e eficientes.  
+- **Styled Components** - Estilização modular e dinâmica com CSS-in-JS.  
+- **Vite** - Ferramenta moderna para desenvolvimento frontend rápido e otimizado.  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ⚡ Funcionalidades  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✅ **Layout Responsivo** - Adaptável para dispositivos móveis e desktops.  
+✅ **Performance Otimizada** - Código leve e carregamento rápido.  
+✅ **SEO-Friendly** - Segue boas práticas para indexação nos motores de busca.  
+✅ **Animações Suaves** - Experiência de usuário aprimorada com transições elegantes.  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📥 Instalação e Uso  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Siga as etapas abaixo para rodar a landing page localmente:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/178b60d6-32ca-4faf-8819-f7bb73797102) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+1. **Clone este repositório:**  
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
